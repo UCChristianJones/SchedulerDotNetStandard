@@ -3,3 +3,7 @@
 ################################################################################
 
 /Scheduler/bin/Debug/netstandard2.0
+/Scheduler/obj
+/.vs
+/Test/bin/Debug/netcoreapp3.1
+/Test/obj
